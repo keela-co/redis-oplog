@@ -1,10 +1,10 @@
 Package.describe({
-  name: "cultofcoders:redis-oplog",
+  name: "networksforchange:redis-oplog",
   version: "3.0.0",
   // Brief, one-line summary of the package.
   summary: "Replacement for Meteor's MongoDB oplog implementation",
   // URL to the Git repository containing the source code for this package.
-  git: "https://github.com/cult-of-coders/redis-oplog",
+  git: "https://github.com/keela-co/redis-oplog",
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: "README.md",
